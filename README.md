@@ -1,5 +1,5 @@
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>B Ti student at Ufersa (Federal Rural University of Semi-Árido).</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> BTI student at Ufersa (Federal Rural University of Semi-Árido).</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=4brantes&theme=radical&mode=weekly" />
