@@ -1,16 +1,6 @@
 
 <p align="center"> <br><br> BTI student at Ufersa (Federal Rural University of Semi-Árido).</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=4brantes&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-4brantes.vercel.app/api/top-langs/?username=4brantes&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
-
-
-
 ## My Skills
 
 #### Main Stack:
